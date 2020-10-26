@@ -1,4 +1,3 @@
-# 模型介绍
 ## [内容理解模型库](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/contentunderstanding)
 ### [tagspace文本分类模型](https://github.com/PaddlePaddle/PaddleRec/tree/master/models/contentunderstanding/tagspace)
 ### [textcnn文本分类模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/contentunderstanding/textcnn)
