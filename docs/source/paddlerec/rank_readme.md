@@ -1,8 +1,0 @@
-## [排序模型库](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/rank)
-## [dnn模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/rank/dnn)
-## [FM模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/rank/fm)
-## [deepfm模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/rank/deepfm)
-## [fibinet模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/rank/fibinet)
-## [flen模型](https://github.com/PaddlePaddle/PaddleRec/tree/master/models/rank/flen)
-## [logistic_regression模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/rank/logistic_regression)
-## [wide&deep模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/rank/wide_deep)

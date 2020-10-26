@@ -1,6 +1,0 @@
-## [召回模型库](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/recall)
-## [word2vec模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/recall/word2vec)
-## [Youtebe-DNN模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/recall/youtube_dnn)
-## [gnn模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/recall/gnn)
-## [gru4rec模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/recall/gru4rec)
-## [look-alike recall模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/recall/look-alike_recall)
