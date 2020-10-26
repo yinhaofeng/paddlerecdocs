@@ -2,5 +2,5 @@
 ## [word2vec模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/recall/word2vec/README.md)
 ## [Youtebe-DNN模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/recall/youtube_dnn/README.md)
 ## [gnn模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/recall/gnn/readme.md)
-## [gru4rec模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/recall/gru4rec/README.md)
-## [look-alike recall模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/recall/look-alike_recall/README.md)
+## [gru4rec模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/recall/gru4rec/README.md.md)
+## [look-alike recall模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/recall/look-alike_recall/README\.md)
