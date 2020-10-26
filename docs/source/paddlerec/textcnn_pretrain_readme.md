@@ -1,0 +1,1 @@
+## [使用文本分类模型作为预训练模型对textcnn模型进行fine-tuning](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/contentunderstanding/textcnn_pretrain/readme.md)

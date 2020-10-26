@@ -1,0 +1,1 @@
+## [内容理解模型库](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/contentunderstanding/readme.md)

@@ -1,0 +1,1 @@
+## [textcnn文本分类模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/contentunderstanding/textcnn/readme.md)
