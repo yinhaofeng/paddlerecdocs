@@ -62,7 +62,7 @@
 
    paddlerec/benchmark.md
 
- .. toctree::
+.. toctree::
    :maxdepth: 1
    :numbered:
    :caption: 内容理解模型介绍
@@ -73,7 +73,7 @@
    paddlerec/textcnn_readme.md
    paddlerec/textcnn_pretrain_readme.md
 
- .. toctree::
+.. toctree::
    :maxdepth: 1
    :numbered:
    :caption: 召回模型介绍
@@ -81,7 +81,7 @@
 
    paddlerec/recall_readme.md
 
- .. toctree::
+.. toctree::
    :maxdepth: 1
    :numbered:
    :caption: 排序模型介绍
@@ -89,7 +89,7 @@
 
    paddlerec/rank_readme.md
 
- .. toctree::
+.. toctree::
    :maxdepth: 1
    :numbered:
    :caption: 匹配模型介绍
@@ -116,7 +116,7 @@
 .. toctree::
    :maxdepth: 1
    :numbered:
-   :caption: treebased介绍
+   :caption: TreeBased介绍
    :name: TreeBased推荐搜索算法
 
    paddlerec/treebased_readme.md
