@@ -1,4 +1,0 @@
-Collective Training Practices
------------------------------
-
--  TBA
