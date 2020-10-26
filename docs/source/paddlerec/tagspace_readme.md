@@ -1,1 +1,1 @@
-## [tagspace文本分类模型](https://github.com/PaddlePaddle/PaddleRec/tree/master/models/contentunderstanding/tagspace/readme.md)
+## [tagspace文本分类模型](https://github.com/PaddlePaddle/PaddleRec/tree/master/models/contentunderstanding/tagspace)
