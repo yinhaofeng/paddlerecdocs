@@ -20,7 +20,7 @@
    paddle_fleet_rst/fleetrun_usage_cn
    paddle_fleet_rst/fleetx_quick_start
    paddle_fleet_rst/fleetsub_quick_start_cn
-   paddle_fleet_rst/dataset_info
+   paddle_fleet/test
 
 .. toctree::
    :maxdepth: 1
