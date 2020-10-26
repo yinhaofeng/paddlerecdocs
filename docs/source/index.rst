@@ -10,70 +10,29 @@
 .. toctree::
    :maxdepth: 1
    :numbered:
-   :caption: 快速开始
+   :caption: 入门教程
    :name: new-users
 
-   paddle_fleet_rst/distributed_introduction
-   paddle_fleet_rst/install_cn
-   paddle_fleet_rst/fleet_static_quick_start_cn
-   paddle_fleet_rst/fleet_dygraph_quick_start_cn
-   paddle_fleet_rst/fleetrun_usage_cn
-   paddle_fleet_rst/fleetx_quick_start
-   paddle_fleet_rst/fleetsub_quick_start_cn
-   paddle_fleet/test
+   paddlerec/model.md
+   paddlerec/slot_reader.md
+   paddlerec/train.md
+   paddlerec/distributed_train.md
+   paddlerec/predict.md
+   paddlerec/serving.md
+   paddlerec/pre_train_model.md
 
 .. toctree::
    :maxdepth: 1
    :numbered:
-   :caption: 数据并行训练
+   :caption: 进阶教程
    :name: advanced-doc-data-parallel-training
 
-   paddle_fleet_rst/fleet_ps_sync_and_async_cn
-   paddle_fleet_rst/fleet_dataset_w2v_cn
-   paddle_fleet_rst/fleet_collective_training_practices_cn
-   paddle_fleet_rst/fleet_collective_training_speedup_with_amp_cn
-   paddle_fleet_rst/fleet_large_batch_training_techniques_cn
-   paddle_fleet_rst/fleet_improve_large_batch_accuracy_cn.md
-   paddle_fleet_rst/fleet_heter_parameter_server_cn
+   paddlerec/custom_reader.md
+   paddlerec/model_develop.md
+   paddlerec/trainer_develop.md
+   paddlerec/yaml.md
+   paddlerec/design.md
 
-.. toctree::
-   :maxdepth: 1
-   :numbered:
-   :caption: 模型并行与流水线并行
-   :name: advanced-model-parallel-pipeline-parallel
-
-   paddle_fleet_rst/fleet_model_parallel_cn
-   paddle_fleet_rst/fleet_pipeline_parallel_cn
-
-.. toctree::
-   :maxdepth: 1
-   :numbered:
-   :caption: 云端训练实践
-   :name: advanced-doc-model-parallel
-
-   paddle_fleet_rst/fleet_ps_geo_async_cn	  
-   paddle_fleet_rst/fleet_and_edl_for_distillation_cn
-   paddle_fleet_rst/fleet_on_cloud_cn
-
-.. toctree::
-   :maxdepth: 1
-   :numbered:
-   :caption: 飞桨分布式训练性能基准
-   :name: benchmark
-
-   paddle_fleet_rst/fleet_benchmark_overview_cn
-   paddle_fleet_rst/fleet_benchmark_resnet50_cn
-   paddle_fleet_rst/fleet_benchmark_bert_cn
-   paddle_fleet_rst/fleet_benchmark_transformer_cn
-   paddle_fleet_rst/fleet_benchmark_vgg16_cn
-   paddle_fleet_rst/fleet_benchmark_word2vec_cn
-
-.. toctree::
-   :maxdepth: 1
-   :numbered:
-   :caption: 分布式训练FAQ
-
-   paddle_fleet_rst/fleet_user_faq_cn
 
 .. toctree::
    :maxdepth
