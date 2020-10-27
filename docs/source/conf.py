@@ -102,7 +102,7 @@ latex_elements={# The paper size ('letterpaper' or 'a4paper').
 \XeTeXlinebreakskip = 0pt plus 1pt
 """}
 
-extensions = ['recommonmark']
+extensions = ['recommonmark','sphinx_markdown_tables']
 
 source_suffix = {
     '.rst': 'restructuredtext',
