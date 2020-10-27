@@ -1,4 +1,5 @@
 # PaddleRec config.yaml配置说明
+## [config.yaml配置说明](https://github.com/PaddlePaddle/PaddleRec/blob/master/doc/yaml.md)
 
 ## 全局变量
 
