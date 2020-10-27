@@ -51,7 +51,7 @@ release = '0.1.0.beta'
 # ones.
 extensions = [
     'sphinx.ext.todo', 'sphinx.ext.viewcode', 'sphinx.ext.mathjax',
-    'sphinx.ext.autodoc', 'sphinx.ext.napoleon', "markdown2rst", 'sphinx_markdown_tables'
+    'sphinx.ext.autodoc', 'sphinx.ext.napoleon', "markdown2rst",'sphinx.ext.githubpages', 'sphinx_markdown_tables'
 ]
 
 # Support Inline mathjax
@@ -59,9 +59,7 @@ m2r_disable_inline_math = False
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
-source_parsers = {
-    '.md': 'recommonmark.parser.CommonMarkParser',
-}
+
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
