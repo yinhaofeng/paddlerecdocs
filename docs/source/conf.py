@@ -33,7 +33,7 @@ sys.path.append(os.path.abspath('../../PaddleRec/'))
 sys.path.append(os.path.abspath('../..'))
 sys.path.append(os.path.abspath('..'))
 import sphinx_rtd_theme
-import sphinx_markdown_tables
+
 
 # -- Project information -----------------------------------------------------
 
