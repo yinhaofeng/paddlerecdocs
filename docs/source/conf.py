@@ -50,7 +50,7 @@ release = '0.1.0.beta'
 # ones.
 extensions = [
     'sphinx.ext.todo', 'sphinx.ext.viewcode', 'sphinx.ext.mathjax',
-    'sphinx.ext.autodoc', 'sphinx.ext.napoleon', "markdown2rst"
+    'sphinx.ext.autodoc', 'sphinx.ext.napoleon', "markdown2rst", 'sphinx_markdown_tables'
 ]
 
 # Support Inline mathjax
@@ -102,7 +102,7 @@ latex_elements={# The paper size ('letterpaper' or 'a4paper').
 \XeTeXlinebreakskip = 0pt plus 1pt
 """}
 
-extensions = ['recommonmark','sphinx_markdown_tables']
+extensions = ['recommonmark']
 
 source_suffix = {
     '.rst': 'restructuredtext',
