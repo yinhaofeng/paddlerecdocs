@@ -33,7 +33,7 @@ sys.path.append(os.path.abspath('../../PaddleRec/'))
 sys.path.append(os.path.abspath('../..'))
 sys.path.append(os.path.abspath('..'))
 import sphinx_rtd_theme
-
+import sphinx_markdown_tables
 
 # -- Project information -----------------------------------------------------
 
@@ -59,7 +59,9 @@ m2r_disable_inline_math = False
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
-
+source_parsers = {
+    '.md': 'recommonmark.parser.CommonMarkParser',
+}
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
@@ -103,7 +105,7 @@ latex_elements={# The paper size ('letterpaper' or 'a4paper').
 \XeTeXlinebreakskip = 0pt plus 1pt
 """}
 
-extensions = ['recommonmark']
+extensions = ['recommonmark','sphinx_markdown_tables']
 
 source_suffix = {
     '.rst': 'restructuredtext',
