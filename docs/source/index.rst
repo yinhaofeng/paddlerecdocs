@@ -33,8 +33,8 @@
    :caption: 入门教程
    :name: Getting started
 
-   paddlerec/model.md
    paddlerec/slot_reader.md
+   paddlerec/model.md
    paddlerec/train.md
    paddlerec/distributed_train.md
    paddlerec/predict.md
