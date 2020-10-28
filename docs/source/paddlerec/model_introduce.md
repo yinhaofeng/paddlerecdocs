@@ -14,6 +14,8 @@
 ### [gnn模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/recall/gnn)
 ### [gru4rec模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/recall/gru4rec)
 ### [look-alike recall模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/recall/look-alike_recall)
+### [TreeBased推荐搜索算法](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/treebased)
+### [TDM算法](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/treebased/tdm)
 
 ## [排序模型库](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/rank)
 ### [dnn模型](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/rank/dnn)
@@ -31,5 +33,3 @@
 
 ## [重排序模型库](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/rerank)
 
-## [TreeBased推荐搜索算法](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/treebased)
-### [TDM算法](https://github.com/PaddlePaddle/PaddleRec/blob/master/models/treebased/tdm)

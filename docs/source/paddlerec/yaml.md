@@ -78,7 +78,7 @@
 |         others          |   /    |        /         |    /     |   由各个模型组网独立指定    |
 
 
-# PaddleRec backend.yaml配置说明
+## PaddleRec backend.yaml配置说明
 
 ## 全局变量
 

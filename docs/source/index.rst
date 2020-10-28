@@ -36,10 +36,9 @@
    paddlerec/slot_reader.md
    paddlerec/model.md
    paddlerec/train.md
-   paddlerec/distributed_train.md
    paddlerec/predict.md
    paddlerec/serving.md
-   paddlerec/pre_train_model.md
+
 
 .. toctree::
    :maxdepth: 1
@@ -47,11 +46,13 @@
    :caption: 进阶教程
    :name: Advanced course
 
+   paddlerec/design.md
    paddlerec/custom_reader.md
    paddlerec/model_develop.md
+   paddlerec/distributed_train.md
+   paddlerec/pre_train_model.md
    paddlerec/trainer_develop.md
    paddlerec/yaml.md
-   paddlerec/design.md
    paddlerec/metrics.md
 
 .. toctree::
