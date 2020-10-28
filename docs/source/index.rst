@@ -43,8 +43,8 @@
 .. image:: media/design.png
    :align: center
    :alt: design
-   :width: 5.63529in
-   :height: 0.97222in
+   :width: 6.03529in
+   :height: 4.97222in
 
 .. toctree::
    :maxdepth: 1
