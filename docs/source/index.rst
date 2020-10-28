@@ -50,6 +50,7 @@
    :caption: 进阶教程
    :name: Advanced course
 
+   picture_design.rst
    paddlerec/design.md
    paddlerec/custom_reader.md
    paddlerec/model_develop.md
