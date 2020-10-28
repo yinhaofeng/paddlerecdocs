@@ -41,19 +41,19 @@
 
 进阶教程
 
-- 1. PaddleRec 设计 <paddlerec/design.html>
+- 1. PaddleRec 设计<paddlerec/design.html>
 .. image:: media/design.png
    :align: center
    :alt: design
    :width: 10.03529in
    :height: 3.97222in
-- 2. yaml配置说明 <paddlerec/yaml.html>
-- 3. 如何自定义Reader <paddlerec/custom_reader.html>
-- 4. 如何添加自定义模型 <paddlerec/model_develop.html>
-- 5. 如何给模型增加Metric <paddlerec/metrics.html>
-- 6. 内置的Trainer训练流程 <paddlerec/exist_develop.html>
-- 7. 如何添加自定义Trainer训练流程 <paddlerec/trainer_develop.html>
-- 8. 如何启动分布式训练 <paddlerec/distributed_train.html>
+- 2. yaml配置说明<paddlerec/yaml.html>
+- 3. 如何自定义Reader<paddlerec/custom_reader.html>
+- 4. 如何添加自定义模型<paddlerec/model_develop.html>
+- 5. 如何给模型增加Metric<paddlerec/metrics.html>
+- 6. 内置的Trainer训练流程<paddlerec/exist_develop.html>
+- 7. 如何添加自定义Trainer训练流程<paddlerec/trainer_develop.html>
+- 8. 如何启动分布式训练<paddlerec/distributed_train.html>
 
 .. toctree::
    :hidden:
