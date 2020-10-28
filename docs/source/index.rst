@@ -46,6 +46,8 @@
    :caption: 进阶教程
    :name: Advanced course
 
+   paddlerec/design.png
+   paddlerec/design.md
    paddlerec/custom_reader.md
    paddlerec/model_develop.md
    paddlerec/metrics.md
@@ -53,7 +55,7 @@
    paddlerec/pre_train_model.md
    paddlerec/trainer_develop.md
    paddlerec/yaml.md
-   paddlerec/design.md
+   
 
 .. toctree::
    :maxdepth: 1
