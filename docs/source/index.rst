@@ -34,8 +34,8 @@
    :name: Getting started
 
    paddlerec/slot_reader.md
-   paddlerec/model.md
    paddlerec/train.md
+   paddlerec/model.md
    paddlerec/predict.md
    paddlerec/serving.md
 
@@ -53,13 +53,20 @@
    :name: Advanced course
 
    paddlerec/design.md
+   
+.. image:: media/design.png
+   :align: center
+   :alt: design
+   :width: 10.03529in
+   :height: 3.97222in
+
+   paddlerec/yaml.md
    paddlerec/custom_reader.md
    paddlerec/model_develop.md
    paddlerec/metrics.md
    paddlerec/exist_develop.md
-   paddlerec/distributed_train.md
    paddlerec/trainer_develop.md
-   paddlerec/yaml.md
+   paddlerec/distributed_train.md
    
 
 .. toctree::
