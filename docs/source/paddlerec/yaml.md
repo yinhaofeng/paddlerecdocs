@@ -1,4 +1,4 @@
-# PaddleRec config.yaml配置说明
+# yaml配置说明
 
 ## 全局变量
 
