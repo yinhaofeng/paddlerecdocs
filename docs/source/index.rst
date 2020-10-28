@@ -40,11 +40,12 @@
    paddlerec/serving.md
 
 .. toctree::
-    :maxdepth: 1
-    :caption: picture
-    :hidden:
+   :maxdepth: 1
+   :caption: picture
+   :hidden:
 
-    picture_design.rst
+   picture_design.rst
+   paddlerec/design.md
 
 .. mdinclude:: paddlerec/picture_design.md
 
@@ -54,7 +55,6 @@
    :caption: 进阶教程
    :name: Advanced course
 
-   paddlerec/design.png
    paddlerec/design.md
    paddlerec/custom_reader.md
    paddlerec/model_develop.md
