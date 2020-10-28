@@ -49,7 +49,7 @@
    picture_design.rst
    paddlerec/design.md
 
-.. paddlerecinclude:: paddlerec/picture_design.md
+.. mdinclude:: paddlerec/picture_design.md
 
 .. toctree::
    :maxdepth: 1

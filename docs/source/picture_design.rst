@@ -1,1 +1,1 @@
-.. paddlerecinclude:: paddlerec/picture_design.md
+.. mdinclude:: paddlerec/picture_design.md
