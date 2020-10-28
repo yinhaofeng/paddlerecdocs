@@ -48,13 +48,13 @@
    :alt: design
    :width: 10.03529in
    :height: 3.97222in
-- 2. `yaml配置说明<paddlerec/yaml.html>`_
-- 3. `如何自定义Reader<paddlerec/custom_reader.html>`_
-- 4. `如何添加自定义模型<paddlerec/model_develop.html>`_
-- 5. `如何给模型增加Metric<paddlerec/metrics.html>`_
-- 6. `内置的Trainer训练流程<paddlerec/exist_develop.html>`_
-- 7. `如何添加自定义Trainer训练流程<paddlerec/trainer_develop.html>`_
-- 8. `如何启动分布式训练<paddlerec/distributed_train.html>`_
+- 2. `yaml配置说明 <paddlerec/yaml.html>`_
+- 3. `如何自定义Reader <paddlerec/custom_reader.html>`_
+- 4. `如何添加自定义模型 <paddlerec/model_develop.html>`_
+- 5. `如何给模型增加Metric <paddlerec/metrics.html>`_
+- 6. `内置的Trainer训练流程 <paddlerec/exist_develop.html>`_
+- 7. `如何添加自定义Trainer训练流程 <paddlerec/trainer_develop.html>`_
+- 8. `如何启动分布式训练 <paddlerec/distributed_train.html>`_
 
 .. toctree::
    :hidden:
