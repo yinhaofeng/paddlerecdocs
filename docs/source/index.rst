@@ -39,11 +39,10 @@
    paddlerec/predict.md
    paddlerec/serving.md
 
-.. figure: media/design.png
-   :alt: design
-   :align: center
-   :caption: design
 
+.. image:: media/design.png
+   :align: center
+   :alt: design
 
 .. toctree::
    :maxdepth: 1
