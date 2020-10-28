@@ -39,6 +39,13 @@
    paddlerec/predict.md
    paddlerec/serving.md
 
+.. toctree::
+    :maxdepth: 1
+    :caption: picture
+    :hidden:
+
+    picture_design.rst
+
 .. mdinclude:: paddlerec/picture_design.md
 
 .. toctree::
